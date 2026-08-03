@@ -2,7 +2,7 @@
 
 Welcome to my **365-Day LeetCode Challenge**!
 
-After completing Striver's SDE Sheet, I wanted to continue improving my problem-solving skills by practicing LeetCode consistently and mastering DSA pattern by pattern.
+After completing **Striver's SDE Sheet**, I wanted to continue improving my problem-solving skills by practicing LeetCode consistently and mastering DSA patterns one by one.
 
 ## 🎯 Goals
 
@@ -18,9 +18,10 @@ After completing Striver's SDE Sheet, I wanted to continue improving my problem-
 ## 📊 Progress
 
 | Day | Pattern | Problems | Difficulty | Status |
-|------|----------|----------|------------|--------|
+|------|------------------------------------------|----------|------------|--------|
 | Day 1 | Basic Array Traversal | 1920, 1929 | Easy | ✅ |
 | Day 2 | Basic Array Traversal | 1480, 1672 | Easy | ✅ |
+| Day 3 | Read Pointer + Write Pointer (Two Pointers) | 26, 27 | Easy | ✅ |
 
 ---
 
@@ -36,35 +37,41 @@ After completing Striver's SDE Sheet, I wanted to continue improving my problem-
 │   ├── 1920_Build_Array_from_Permutation.java
 │   └── 1929_Concatenation_of_Array.java
 │
-└── Day-002
+├── Day-002
+│   ├── README.md
+│   ├── 1480_Running_Sum_of_1D_Array.java
+│   └── 1672_Richest_Customer_Wealth.java
+│
+└── Day-003
     ├── README.md
-    ├── 1480_Running_Sum_of_1D_Array.java
-    └── 1672_Richest_Customer_Wealth.java
+    ├── 26_Remove_Duplicates_from_Sorted_Array.java
+    └── 27_Remove_Element.java
 ```
 
 ---
 
 ## 📚 Patterns Covered
 
-- ✅ Basic Array Traversal (In Progress)
+- ✅ Basic Array Traversal
+- 🔄 Read Pointer + Write Pointer (Two Pointers)
 
 ---
 
 ## 📈 Challenge Statistics
 
-- **Days Completed:** 2 / 365
-- **Problems Solved:** 4 / 730
-- **Current Pattern:** Basic Array Traversal
+- **Days Completed:** 3 / 365
+- **Problems Solved:** 6 / 730
+- **Current Pattern:** Read Pointer + Write Pointer (Two Pointers)
 - **Difficulty Covered:** Easy
 - **Language:** Java
 
 ---
 
-## ⭐ Repository Goals
+## 📖 Learning Approach
 
-This repository is organized **pattern-wise** instead of randomly solving problems.
+This repository follows a **pattern-based learning approach** instead of solving random LeetCode problems.
 
-For every problem, I aim to understand:
+For every pattern, I focus on:
 
 - ✅ Pattern Recognition
 - ✅ Brute Force Approach
@@ -72,6 +79,8 @@ For every problem, I aim to understand:
 - ✅ Time & Space Complexity
 - ✅ Interview Takeaways
 - ✅ Java Implementation
+
+The goal is not just to solve problems, but to recognize recurring interview patterns and build strong problem-solving skills.
 
 ---
 
@@ -85,21 +94,23 @@ For every problem, I aim to understand:
 
 ## 🎯 Current Focus
 
-**Pattern 1:** Basic Array Traversal
+### Pattern 2: Read Pointer + Write Pointer (Two Pointers)
 
 Learning to:
 
-- Traverse 1D arrays efficiently
-- Traverse 2D arrays (Matrices)
-- Build new arrays
 - Modify arrays in-place
-- Strengthen one-pass traversal techniques
+- Use separate read and write pointers
+- Remove unwanted elements efficiently
+- Preserve the relative order of elements
+- Solve array compression problems using **O(1)** extra space
 
 ---
 
-## 🌟 Milestone
+## 🌟 Milestones
 
 - 🚀 Challenge Started: **August 1, 2026**
+- ✅ Days Completed: **3**
+- ✅ Problems Solved: **6**
 - 🎯 Goal: **730 Problems in 365 Days**
 
 ---

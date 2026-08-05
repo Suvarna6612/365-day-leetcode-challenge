@@ -25,6 +25,7 @@ After completing **Striver's SDE Sheet**, I wanted to continue improving my prob
 | Day 2 | Basic Array Traversal | 1480, 1672 | Easy | ✅ |
 | Day 3 | Read Pointer + Write Pointer (Two Pointers) | 26, 27 | Easy | ✅ |
 | Day 4 | Read Pointer + Write Pointer (Two Pointers) | 283, 1089 | Easy | ✅ |
+| Day 5 | Read Pointer + Write Pointer (Two Pointers) | 88, 80 | Easy, Medium | ✅ |
 
 ---
 
@@ -50,10 +51,15 @@ After completing **Striver's SDE Sheet**, I wanted to continue improving my prob
 │   ├── 26_Remove_Duplicates_from_Sorted_Array.java
 │   └── 27_Remove_Element.java
 │
-└── Day-004
+├── Day-004
+│   ├── README.md
+│   ├── 283_Move_Zeroes.java
+│   └── 1089_Duplicate_Zeros.java
+│
+└── Day-005
     ├── README.md
-    ├── 283_Move_Zeroes.java
-    └── 1089_Duplicate_Zeros.java
+    ├── 88_Merge_Sorted_Array.java
+    └── 80_Remove_Duplicates_from_Sorted_Array_II.java
 ```
 
 ---
@@ -63,16 +69,16 @@ After completing **Striver's SDE Sheet**, I wanted to continue improving my prob
 | Pattern | Progress | Status |
 |----------|----------|--------|
 | Basic Array Traversal | 4 Problems | 🔄 In Progress |
-| Read Pointer + Write Pointer (Two Pointers) | 4 Problems | 🔄 In Progress |
+| Read Pointer + Write Pointer (Two Pointers) | 6 Problems | 🔄 In Progress |
 
 ---
 
 ## 📈 Challenge Statistics
 
-- **Days Completed:** 4 / 365
-- **Problems Solved:** 8 / 730
+- **Days Completed:** 5 / 365
+- **Problems Solved:** 10 / 730
 - **Current Pattern:** Read Pointer + Write Pointer (Two Pointers)
-- **Difficulty Covered:** Easy
+- **Difficulty Covered:** Easy, Medium
 - **Language:** Java
 
 ---
@@ -121,6 +127,8 @@ Learning to:
 - Modify arrays in-place
 - Use separate read and write pointers
 - Preserve the relative order of elements
+- Merge sorted arrays efficiently without extra space
+- Handle duplicate elements with custom constraints
 - Move and shift elements efficiently
 - Solve array transformation problems using **O(1)** extra space
 - Master interview variations of the Read Pointer + Write Pointer pattern
@@ -130,8 +138,8 @@ Learning to:
 ## 🌟 Milestones
 
 - 🚀 Challenge Started: **August 1, 2026**
-- ✅ Days Completed: **4**
-- ✅ Problems Solved: **8**
+- ✅ Days Completed: **5**
+- ✅ Problems Solved: **10**
 - 🔄 Patterns Currently In Progress: **2**
 - 🎯 Goal: **730 Problems in 365 Days**
 

@@ -26,6 +26,7 @@ After completing **Striver's SDE Sheet**, I wanted to continue improving my prob
 | Day 3 | Read Pointer + Write Pointer (Two Pointers) | 26, 27 | Easy | ✅ |
 | Day 4 | Read Pointer + Write Pointer (Two Pointers) | 283, 1089 | Easy | ✅ |
 | Day 5 | Read Pointer + Write Pointer (Two Pointers) | 88, 80 | Easy, Medium | ✅ |
+| Day 6 | Two Pointer Variations | 75, 167 | Medium | ✅ |
 
 ---
 
@@ -56,10 +57,15 @@ After completing **Striver's SDE Sheet**, I wanted to continue improving my prob
 │   ├── 283_Move_Zeroes.java
 │   └── 1089_Duplicate_Zeros.java
 │
-└── Day-005
+├── Day-005
+│   ├── README.md
+│   ├── 88_Merge_Sorted_Array.java
+│   └── 80_Remove_Duplicates_from_Sorted_Array_II.java
+│
+└── Day-006
     ├── README.md
-    ├── 88_Merge_Sorted_Array.java
-    └── 80_Remove_Duplicates_from_Sorted_Array_II.java
+    ├── 75_Sort_Colors.java
+    └── 167_Two_Sum_II_Input_Array_Is_Sorted.java
 ```
 
 ---
@@ -69,14 +75,14 @@ After completing **Striver's SDE Sheet**, I wanted to continue improving my prob
 | Pattern | Progress | Status |
 |----------|----------|--------|
 | Basic Array Traversal | 4 Problems | 🔄 In Progress |
-| Read Pointer + Write Pointer (Two Pointers) | 6 Problems | 🔄 In Progress |
+| Read Pointer + Write Pointer (Two Pointers) | 8 Problems | 🔄 In Progress |
 
 ---
 
 ## 📈 Challenge Statistics
 
-- **Days Completed:** 5 / 365
-- **Problems Solved:** 10 / 730
+- **Days Completed:** 6 / 365
+- **Problems Solved:** 12 / 730
 - **Current Pattern:** Read Pointer + Write Pointer (Two Pointers)
 - **Difficulty Covered:** Easy, Medium
 - **Language:** Java
@@ -130,16 +136,17 @@ Learning to:
 - Merge sorted arrays efficiently without extra space
 - Handle duplicate elements with custom constraints
 - Move and shift elements efficiently
-- Solve array transformation problems using **O(1)** extra space
-- Master interview variations of the Read Pointer + Write Pointer pattern
+- Solve partitioning problems using multiple pointers
+- Apply opposite-end two pointers on sorted arrays
+- Master interview variations of the Two Pointers pattern
 
 ---
 
 ## 🌟 Milestones
 
 - 🚀 Challenge Started: **August 1, 2026**
-- ✅ Days Completed: **5**
-- ✅ Problems Solved: **10**
+- ✅ Days Completed: **6**
+- ✅ Problems Solved: **12**
 - 🔄 Patterns Currently In Progress: **2**
 - 🎯 Goal: **730 Problems in 365 Days**
 

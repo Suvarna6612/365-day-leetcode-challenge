@@ -27,6 +27,7 @@ After completing **Striver's SDE Sheet**, I wanted to continue improving my prob
 | Day 4 | Read Pointer + Write Pointer (Two Pointers) | 283, 1089 | Easy | ✅ |
 | Day 5 | Read Pointer + Write Pointer (Two Pointers) | 88, 80 | Easy, Medium | ✅ |
 | Day 6 | Two Pointer Variations | 75, 167 | Medium | ✅ |
+| Day 7 | Two Pointer Variations | 905, 2161 | Easy, Medium | ✅ |
 
 ---
 
@@ -62,10 +63,15 @@ After completing **Striver's SDE Sheet**, I wanted to continue improving my prob
 │   ├── 88_Merge_Sorted_Array.java
 │   └── 80_Remove_Duplicates_from_Sorted_Array_II.java
 │
-└── Day-006
+├── Day-006
+│   ├── README.md
+│   ├── 75_Sort_Colors.java
+│   └── 167_Two_Sum_II_Input_Array_Is_Sorted.java
+│
+└── Day-007
     ├── README.md
-    ├── 75_Sort_Colors.java
-    └── 167_Two_Sum_II_Input_Array_Is_Sorted.java
+    ├── 905_Sort_Array_By_Parity.java
+    └── 2161_Partition_Array_According_to_Given_Pivot.java
 ```
 
 ---
@@ -75,14 +81,14 @@ After completing **Striver's SDE Sheet**, I wanted to continue improving my prob
 | Pattern | Progress | Status |
 |----------|----------|--------|
 | Basic Array Traversal | 4 Problems | 🔄 In Progress |
-| Read Pointer + Write Pointer (Two Pointers) | 8 Problems | 🔄 In Progress |
+| Read Pointer + Write Pointer (Two Pointers) | 10 Problems | 🔄 In Progress |
 
 ---
 
 ## 📈 Challenge Statistics
 
-- **Days Completed:** 6 / 365
-- **Problems Solved:** 12 / 730
+- **Days Completed:** 7 / 365
+- **Problems Solved:** 14 / 730
 - **Current Pattern:** Read Pointer + Write Pointer (Two Pointers)
 - **Difficulty Covered:** Easy, Medium
 - **Language:** Java
@@ -139,14 +145,15 @@ Learning to:
 - Solve partitioning problems using multiple pointers
 - Apply opposite-end two pointers on sorted arrays
 - Master interview variations of the Two Pointers pattern
+- Recognize when stable partitioning requires extra space
 
 ---
 
 ## 🌟 Milestones
 
 - 🚀 Challenge Started: **August 1, 2026**
-- ✅ Days Completed: **6**
-- ✅ Problems Solved: **12**
+- ✅ Days Completed: **7**
+- ✅ Problems Solved: **14**
 - 🔄 Patterns Currently In Progress: **2**
 - 🎯 Goal: **730 Problems in 365 Days**
 

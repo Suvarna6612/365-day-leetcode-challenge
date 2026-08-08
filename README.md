@@ -20,7 +20,7 @@ After completing **Striver's SDE Sheet**, I wanted to continue improving my prob
 ## 📊 Progress
 
 | Day | Pattern | Problems | Difficulty | Status |
-|------|------------------------------------------|----------------|------------|--------|
+|------|------------------------------------------|------------|--------------|--------|
 | Day 1 | Basic Array Traversal | 1920, 1929 | Easy | ✅ |
 | Day 2 | Basic Array Traversal | 1480, 1672 | Easy | ✅ |
 | Day 3 | Read Pointer + Write Pointer (Two Pointers) | 26, 27 | Easy | ✅ |
@@ -28,6 +28,7 @@ After completing **Striver's SDE Sheet**, I wanted to continue improving my prob
 | Day 5 | Read Pointer + Write Pointer (Two Pointers) | 88, 80 | Easy, Medium | ✅ |
 | Day 6 | Two Pointer Variations | 75, 167 | Medium | ✅ |
 | Day 7 | Two Pointer Variations | 905, 2161 | Easy, Medium | ✅ |
+| Day 8 | Opposite-End Two Pointers | 977, 11 | Easy, Medium | ✅ |
 
 ---
 
@@ -68,10 +69,15 @@ After completing **Striver's SDE Sheet**, I wanted to continue improving my prob
 │   ├── 75_Sort_Colors.java
 │   └── 167_Two_Sum_II_Input_Array_Is_Sorted.java
 │
-└── Day-007
+├── Day-007
+│   ├── README.md
+│   ├── 905_Sort_Array_By_Parity.java
+│   └── 2161_Partition_Array_According_to_Given_Pivot.java
+│
+└── Day-008
     ├── README.md
-    ├── 905_Sort_Array_By_Parity.java
-    └── 2161_Partition_Array_According_to_Given_Pivot.java
+    ├── 977_Squares_of_a_Sorted_Array.java
+    └── 11_Container_With_Most_Water.java
 ```
 
 ---
@@ -81,15 +87,15 @@ After completing **Striver's SDE Sheet**, I wanted to continue improving my prob
 | Pattern | Progress | Status |
 |----------|----------|--------|
 | Basic Array Traversal | 4 Problems | 🔄 In Progress |
-| Read Pointer + Write Pointer (Two Pointers) | 10 Problems | 🔄 In Progress |
+| Two Pointers | 12 Problems | 🔄 In Progress |
 
 ---
 
 ## 📈 Challenge Statistics
 
-- **Days Completed:** 7 / 365
-- **Problems Solved:** 14 / 730
-- **Current Pattern:** Read Pointer + Write Pointer (Two Pointers)
+- **Days Completed:** 8 / 365
+- **Problems Solved:** 16 / 730
+- **Current Pattern:** Two Pointers
 - **Difficulty Covered:** Easy, Medium
 - **Language:** Java
 
@@ -132,28 +138,28 @@ Every pattern will be completed only after covering:
 
 ## 🎯 Current Focus
 
-### Pattern 2: Read Pointer + Write Pointer (Two Pointers)
+### Pattern 2: Two Pointers
 
 Learning to:
 
 - Modify arrays in-place
-- Use separate read and write pointers
-- Preserve the relative order of elements
-- Merge sorted arrays efficiently without extra space
-- Handle duplicate elements with custom constraints
-- Move and shift elements efficiently
-- Solve partitioning problems using multiple pointers
-- Apply opposite-end two pointers on sorted arrays
-- Master interview variations of the Two Pointers pattern
-- Recognize when stable partitioning requires extra space
+- Use read and write pointers
+- Partition arrays efficiently
+- Merge sorted arrays
+- Handle duplicate elements
+- Apply opposite-end pointers
+- Solve problems using sorted-array properties
+- Understand when to move the left or right pointer
+- Optimize brute-force solutions to O(n)
+- Master different Two Pointer variations used in interviews
 
 ---
 
 ## 🌟 Milestones
 
 - 🚀 Challenge Started: **August 1, 2026**
-- ✅ Days Completed: **7**
-- ✅ Problems Solved: **14**
+- ✅ Days Completed: **8**
+- ✅ Problems Solved: **16**
 - 🔄 Patterns Currently In Progress: **2**
 - 🎯 Goal: **730 Problems in 365 Days**
 

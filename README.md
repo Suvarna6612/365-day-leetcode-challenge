@@ -20,7 +20,7 @@ After completing **Striver's SDE Sheet**, I wanted to continue improving my prob
 ## 📊 Progress
 
 | Day | Pattern | Problems | Difficulty | Status |
-|------|------------------------------------------|------------|--------------|--------|
+|-----|---------|----------|------------|--------|
 | Day 1 | Basic Array Traversal | 1920, 1929 | Easy | ✅ |
 | Day 2 | Basic Array Traversal | 1480, 1672 | Easy | ✅ |
 | Day 3 | Read Pointer + Write Pointer (Two Pointers) | 26, 27 | Easy | ✅ |
@@ -29,6 +29,7 @@ After completing **Striver's SDE Sheet**, I wanted to continue improving my prob
 | Day 6 | Two Pointer Variations | 75, 167 | Medium | ✅ |
 | Day 7 | Two Pointer Variations | 905, 2161 | Easy, Medium | ✅ |
 | Day 8 | Opposite-End Two Pointers | 977, 11 | Easy, Medium | ✅ |
+| Day 9 | Two Pointer Variations | 16, 1498 | Medium | ✅ |
 
 ---
 
@@ -74,10 +75,15 @@ After completing **Striver's SDE Sheet**, I wanted to continue improving my prob
 │   ├── 905_Sort_Array_By_Parity.java
 │   └── 2161_Partition_Array_According_to_Given_Pivot.java
 │
-└── Day-008
+├── Day-008
+│   ├── README.md
+│   ├── 977_Squares_of_a_Sorted_Array.java
+│   └── 11_Container_With_Most_Water.java
+│
+└── Day-009
     ├── README.md
-    ├── 977_Squares_of_a_Sorted_Array.java
-    └── 11_Container_With_Most_Water.java
+    ├── 16_3Sum_Closest.java
+    └── 1498_Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition.java
 ```
 
 ---
@@ -85,16 +91,16 @@ After completing **Striver's SDE Sheet**, I wanted to continue improving my prob
 ## 📚 Pattern Progress
 
 | Pattern | Progress | Status |
-|----------|----------|--------|
+|---------|----------|--------|
 | Basic Array Traversal | 4 Problems | 🔄 In Progress |
-| Two Pointers | 12 Problems | 🔄 In Progress |
+| Two Pointers | 14 Problems | 🔄 In Progress |
 
 ---
 
 ## 📈 Challenge Statistics
 
-- **Days Completed:** 8 / 365
-- **Problems Solved:** 16 / 730
+- **Days Completed:** 9 / 365
+- **Problems Solved:** 18 / 730
 - **Current Pattern:** Two Pointers
 - **Difficulty Covered:** Easy, Medium
 - **Language:** Java
@@ -105,7 +111,7 @@ After completing **Striver's SDE Sheet**, I wanted to continue improving my prob
 
 This repository follows a **pattern-based learning approach** instead of solving random LeetCode problems.
 
-For every pattern, I focus on:
+For every problem, I focus on:
 
 - ✅ Pattern Recognition
 - ✅ Brute Force Approach
@@ -150,7 +156,9 @@ Learning to:
 - Apply opposite-end pointers
 - Solve problems using sorted-array properties
 - Understand when to move the left or right pointer
-- Optimize brute-force solutions to O(n)
+- Find pairs and combinations efficiently
+- Count valid subsequences using Two Pointers
+- Optimize brute-force solutions
 - Master different Two Pointer variations used in interviews
 
 ---
@@ -158,8 +166,8 @@ Learning to:
 ## 🌟 Milestones
 
 - 🚀 Challenge Started: **August 1, 2026**
-- ✅ Days Completed: **8**
-- ✅ Problems Solved: **16**
+- ✅ Days Completed: **9**
+- ✅ Problems Solved: **18**
 - 🔄 Patterns Currently In Progress: **2**
 - 🎯 Goal: **730 Problems in 365 Days**
 

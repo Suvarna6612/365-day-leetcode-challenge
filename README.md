@@ -30,6 +30,7 @@ After completing **Striver's SDE Sheet**, I wanted to continue improving my prob
 | Day 7 | Two Pointer Variations | 905, 2161 | Easy, Medium | ✅ |
 | Day 8 | Opposite-End Two Pointers | 977, 11 | Easy, Medium | ✅ |
 | Day 9 | Two Pointer Variations | 16, 1498 | Medium | ✅ |
+| Day 10 | Greedy + Two Pointers / Counting + Two Pointers | 881, 923 | Medium | ✅ |
 
 ---
 
@@ -80,97 +81,78 @@ After completing **Striver's SDE Sheet**, I wanted to continue improving my prob
 │   ├── 977_Squares_of_a_Sorted_Array.java
 │   └── 11_Container_With_Most_Water.java
 │
-└── Day-009
+├── Day-009
+│   ├── README.md
+│   ├── 16_3Sum_Closest.java
+│   └── 1498_Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition.java
+│
+└── Day-010
     ├── README.md
-    ├── 16_3Sum_Closest.java
-    └── 1498_Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition.java
+    ├── 881_Boats_to_Save_People.java
+    └── 923_3Sum_With_Multiplicity.java
 ```
 
----
+📚 Pattern Progress
+Pattern	Progress	Status
+Basic Array Traversal	4 Problems	🔄 In Progress
+Two Pointers	16 Problems	🔄 In Progress
+📈 Challenge Statistics
+Days Completed: 10 / 365
+Problems Solved: 20 / 730
+Current Pattern: Two Pointers
+Difficulty Covered: Easy, Medium
+Language: Java
+📖 Learning Approach
 
-## 📚 Pattern Progress
-
-| Pattern | Progress | Status |
-|---------|----------|--------|
-| Basic Array Traversal | 4 Problems | 🔄 In Progress |
-| Two Pointers | 14 Problems | 🔄 In Progress |
-
----
-
-## 📈 Challenge Statistics
-
-- **Days Completed:** 9 / 365
-- **Problems Solved:** 18 / 730
-- **Current Pattern:** Two Pointers
-- **Difficulty Covered:** Easy, Medium
-- **Language:** Java
-
----
-
-## 📖 Learning Approach
-
-This repository follows a **pattern-based learning approach** instead of solving random LeetCode problems.
+This repository follows a pattern-based learning approach instead of solving random LeetCode problems.
 
 For every problem, I focus on:
 
-- ✅ Pattern Recognition
-- ✅ Brute Force Approach
-- ✅ Optimal Solution
-- ✅ Time & Space Complexity
-- ✅ Interview Takeaways
-- ✅ Company Interview Questions
-- ✅ Java Implementation
+✅ Pattern Recognition
+✅ Brute Force Approach
+✅ Optimal Solution
+✅ Time & Space Complexity
+✅ Interview Takeaways
+✅ Company Interview Questions
+✅ Java Implementation
 
 The goal is not just to solve problems, but to recognize recurring interview patterns and build strong problem-solving skills.
 
 Every pattern will be completed only after covering:
 
-- 🟢 Easy Problems
-- 🟡 Medium Problems
-- 🔴 Hard Problems
-- ⭐ Frequently Asked Company Questions
-- 🔁 Pattern Variations
-- 📚 Revision
-
----
-
-## 🛠️ Tech Stack
-
-- **Language:** Java
-- **Platform:** LeetCode
-- **IDE:** Visual Studio Code
-
----
-
-## 🎯 Current Focus
-
-### Pattern 2: Two Pointers
+🟢 Easy Problems
+🟡 Medium Problems
+🔴 Hard Problems
+⭐ Frequently Asked Company Questions
+🔁 Pattern Variations
+📚 Revision
+🛠️ Tech Stack
+Language: Java
+Platform: LeetCode
+IDE: Visual Studio Code
+🎯 Current Focus
+Pattern 2: Two Pointers
 
 Learning to:
 
-- Modify arrays in-place
-- Use read and write pointers
-- Partition arrays efficiently
-- Merge sorted arrays
-- Handle duplicate elements
-- Apply opposite-end pointers
-- Solve problems using sorted-array properties
-- Understand when to move the left or right pointer
-- Find pairs and combinations efficiently
-- Count valid subsequences using Two Pointers
-- Optimize brute-force solutions
-- Master different Two Pointer variations used in interviews
-
----
-
-## 🌟 Milestones
-
-- 🚀 Challenge Started: **August 1, 2026**
-- ✅ Days Completed: **9**
-- ✅ Problems Solved: **18**
-- 🔄 Patterns Currently In Progress: **2**
-- 🎯 Goal: **730 Problems in 365 Days**
-
----
-
-### ⭐ If you find this repository helpful, feel free to star it!
+Modify arrays in-place
+Use read and write pointers
+Partition arrays efficiently
+Merge sorted arrays
+Handle duplicate elements
+Apply opposite-end pointers
+Solve problems using sorted-array properties
+Understand when to move the left or right pointer
+Find pairs and combinations efficiently
+Count valid subsequences using Two Pointers
+Combine Greedy with Two Pointers
+Handle duplicate combinations and multiplicity
+Optimize brute-force solutions
+Master different Two Pointer variations used in interviews
+🌟 Milestones
+🚀 Challenge Started: August 1, 2026
+✅ Days Completed: 10
+✅ Problems Solved: 20
+🔄 Patterns Currently In Progress: 2
+🎯 Goal: 730 Problems in 365 Days
+⭐ If you find this repository helpful, feel free to star it!

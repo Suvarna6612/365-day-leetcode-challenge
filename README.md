@@ -19,24 +19,24 @@ After completing **Striver's SDE Sheet**, I wanted to continue improving my prob
 
 ## 📊 Progress
 
-| Day | Pattern | Problems | Difficulty | Status |
-|-----|---------|----------|------------|--------|
-| Day 1 | Basic Array Traversal | 1920, 1929 | Easy | ✅ |
-| Day 2 | Basic Array Traversal | 1480, 1672 | Easy | ✅ |
-| Day 3 | Read Pointer + Write Pointer (Two Pointers) | 26, 27 | Easy | ✅ |
-| Day 4 | Read Pointer + Write Pointer (Two Pointers) | 283, 1089 | Easy | ✅ |
-| Day 5 | Read Pointer + Write Pointer (Two Pointers) | 88, 80 | Easy, Medium | ✅ |
-| Day 6 | Two Pointer Variations | 75, 167 | Medium | ✅ |
-| Day 7 | Two Pointer Variations | 905, 2161 | Easy, Medium | ✅ |
-| Day 8 | Opposite-End Two Pointers | 977, 11 | Easy, Medium | ✅ |
-| Day 9 | Two Pointer Variations | 16, 1498 | Medium | ✅ |
-| Day 10 | Greedy + Two Pointers / Counting + Two Pointers | 881, 923 | Medium | ✅ |
+| Day    | Pattern                                         | Problems   | Difficulty   | Status |
+| ------ | ----------------------------------------------- | ---------- | ------------ | ------ |
+| Day 1  | Basic Array Traversal                           | 1920, 1929 | Easy         | ✅ |
+| Day 2  | Basic Array Traversal                           | 1480, 1672 | Easy         | ✅ |
+| Day 3  | Read Pointer + Write Pointer (Two Pointers)     | 26, 27     | Easy         | ✅ |
+| Day 4  | Read Pointer + Write Pointer (Two Pointers)     | 283, 1089  | Easy         | ✅ |
+| Day 5  | Read Pointer + Write Pointer (Two Pointers)     | 88, 80     | Easy, Medium | ✅ |
+| Day 6  | Two Pointer Variations                          | 75, 167    | Medium       | ✅ |
+| Day 7  | Two Pointer Variations                          | 905, 2161  | Easy, Medium | ✅ |
+| Day 8  | Opposite-End Two Pointers                       | 977, 11    | Easy, Medium | ✅ |
+| Day 9  | Two Pointer Variations                          | 16, 1498   | Medium       | ✅ |
+| Day 10 | Greedy + Two Pointers / Counting + Two Pointers | 881, 923   | Medium       | ✅ |
+| Day 11 | Two Pointers (Subsequence)                      | 392, 524   | Easy, Medium | ✅ |
 
 ---
 
 ## 📁 Folder Structure
 
-```text
 365-day-leetcode-challenge
 │
 ├── README.md
@@ -86,27 +86,31 @@ After completing **Striver's SDE Sheet**, I wanted to continue improving my prob
 │   ├── 16_3Sum_Closest.java
 │   └── 1498_Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition.java
 │
-└── Day-010
+├── Day-010
+│   ├── README.md
+│   ├── 881_Boats_to_Save_People.java
+│   └── 923_3Sum_With_Multiplicity.java
+│
+└── Day-011
     ├── README.md
-    ├── 881_Boats_to_Save_People.java
-    └── 923_3Sum_With_Multiplicity.java
-```
+    ├── 392_Is_Subsequence.java
+    └── 524_Longest_Word_in_Dictionary_through_Deleting.java
 
 ---
 
 ## 📚 Pattern Progress
 
-| Pattern | Progress | Status |
-|---------|----------|--------|
-| Basic Array Traversal | 4 Problems | 🔄 In Progress |
-| Two Pointers | 16 Problems | 🔄 In Progress |
+| Pattern               | Progress    | Status         |
+| --------------------- | ----------- | -------------- |
+| Basic Array Traversal | 4 Problems  | 🔄 In Progress |
+| Two Pointers          | 18 Problems | 🔄 In Progress |
 
 ---
 
 ## 📈 Challenge Statistics
 
-- **Days Completed:** 10 / 365
-- **Problems Solved:** 20 / 730
+- **Days Completed:** 11 / 365
+- **Problems Solved:** 22 / 730
 - **Current Pattern:** Two Pointers
 - **Difficulty Covered:** Easy, Medium
 - **Language:** Java
@@ -166,6 +170,8 @@ Learning to:
 - Count valid subsequences using Two Pointers
 - Combine Greedy with Two Pointers
 - Handle duplicate combinations and multiplicity
+- Check whether one string is a subsequence of another
+- Apply subsequence logic to dictionary-based problems
 - Optimize brute-force solutions
 - Master different Two Pointer variations used in interviews
 
@@ -174,8 +180,8 @@ Learning to:
 ## 🌟 Milestones
 
 - 🚀 Challenge Started: **August 1, 2026**
-- ✅ Days Completed: **10**
-- ✅ Problems Solved: **20**
+- ✅ Days Completed: **11**
+- ✅ Problems Solved: **22**
 - 🔄 Patterns Currently In Progress: **2**
 - 🎯 Goal: **730 Problems in 365 Days**
 

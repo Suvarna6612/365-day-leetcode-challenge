@@ -32,6 +32,7 @@ After completing **Striver's SDE Sheet**, I wanted to continue improving my prob
 | Day 9  | Two Pointer Variations                          | 16, 1498   | Medium       | ✅ |
 | Day 10 | Greedy + Two Pointers / Counting + Two Pointers | 881, 923   | Medium       | ✅ |
 | Day 11 | Two Pointers (Subsequence)                      | 392, 524   | Easy, Medium | ✅ |
+| Day 12 | Two Pointers (Intervals + Strings)              | 986, 844   | Medium, Easy | ✅ |
 
 ---
 
@@ -91,10 +92,15 @@ After completing **Striver's SDE Sheet**, I wanted to continue improving my prob
 │   ├── 881_Boats_to_Save_People.java
 │   └── 923_3Sum_With_Multiplicity.java
 │
-└── Day-011
+├── Day-011
+│   ├── README.md
+│   ├── 392_Is_Subsequence.java
+│   └── 524_Longest_Word_in_Dictionary_through_Deleting.java
+│
+└── Day-012
     ├── README.md
-    ├── 392_Is_Subsequence.java
-    └── 524_Longest_Word_in_Dictionary_through_Deleting.java
+    ├── 986_Interval_List_Intersections.java
+    └── 844_Backspace_String_Compare.java
 
 ---
 
@@ -103,14 +109,14 @@ After completing **Striver's SDE Sheet**, I wanted to continue improving my prob
 | Pattern               | Progress    | Status         |
 | --------------------- | ----------- | -------------- |
 | Basic Array Traversal | 4 Problems  | 🔄 In Progress |
-| Two Pointers          | 18 Problems | 🔄 In Progress |
+| Two Pointers          | 20 Problems | 🔄 In Progress |
 
 ---
 
 ## 📈 Challenge Statistics
 
-- **Days Completed:** 11 / 365
-- **Problems Solved:** 22 / 730
+- **Days Completed:** 12 / 365
+- **Problems Solved:** 24 / 730
 - **Current Pattern:** Two Pointers
 - **Difficulty Covered:** Easy, Medium
 - **Language:** Java
@@ -172,6 +178,10 @@ Learning to:
 - Handle duplicate combinations and multiplicity
 - Check whether one string is a subsequence of another
 - Apply subsequence logic to dictionary-based problems
+- Find intersections between two sorted interval lists
+- Apply Two Pointers across multiple arrays
+- Process strings from right to left
+- Handle backspaces using constant extra space
 - Optimize brute-force solutions
 - Master different Two Pointer variations used in interviews
 
@@ -180,8 +190,8 @@ Learning to:
 ## 🌟 Milestones
 
 - 🚀 Challenge Started: **August 1, 2026**
-- ✅ Days Completed: **11**
-- ✅ Problems Solved: **22**
+- ✅ Days Completed: **12**
+- ✅ Problems Solved: **24**
 - 🔄 Patterns Currently In Progress: **2**
 - 🎯 Goal: **730 Problems in 365 Days**
 

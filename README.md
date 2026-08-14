@@ -33,6 +33,8 @@ After completing **Striver's SDE Sheet**, I wanted to continue improving my prob
 | Day 10 | Greedy + Two Pointers / Counting + Two Pointers | 881, 923   | Medium       | ✅ |
 | Day 11 | Two Pointers (Subsequence)                      | 392, 524   | Easy, Medium | ✅ |
 | Day 12 | Two Pointers (Intervals + Strings)              | 986, 844   | Medium, Easy | ✅ |
+| Day 13 | Linked List Pointer Manipulation                | 328, 143   | Medium       | ✅ |
+| Day 14 | Linked List + Fast & Slow Pointers              | 2095, 1721 | Medium       | ✅ |
 
 ---
 
@@ -97,10 +99,20 @@ After completing **Striver's SDE Sheet**, I wanted to continue improving my prob
 │   ├── 392_Is_Subsequence.java
 │   └── 524_Longest_Word_in_Dictionary_through_Deleting.java
 │
-└── Day-012
+├── Day-012
+│   ├── README.md
+│   ├── 986_Interval_List_Intersections.java
+│   └── 844_Backspace_String_Compare.java
+│
+├── Day-013
+│   ├── README.md
+│   ├── 328_Odd_Even_Linked_List.java
+│   └── 143_Reorder_List.java
+│
+└── Day-014
     ├── README.md
-    ├── 986_Interval_List_Intersections.java
-    └── 844_Backspace_String_Compare.java
+    ├── 2095_Delete_the_Middle_Node_of_a_Linked_List.java
+    └── 1721_Swapping_Nodes_in_a_Linked_List.java
 
 ---
 
@@ -110,14 +122,15 @@ After completing **Striver's SDE Sheet**, I wanted to continue improving my prob
 | --------------------- | ----------- | -------------- |
 | Basic Array Traversal | 4 Problems  | 🔄 In Progress |
 | Two Pointers          | 20 Problems | 🔄 In Progress |
+| Linked List           | 4 Problems  | 🔄 In Progress |
 
 ---
 
 ## 📈 Challenge Statistics
 
-- **Days Completed:** 12 / 365
-- **Problems Solved:** 24 / 730
-- **Current Pattern:** Two Pointers
+- **Days Completed:** 14 / 365
+- **Problems Solved:** 28 / 730
+- **Current Pattern:** Linked List
 - **Difficulty Covered:** Easy, Medium
 - **Language:** Java
 
@@ -160,39 +173,34 @@ Every pattern will be completed only after covering:
 
 ## 🎯 Current Focus
 
-### Pattern 2: Two Pointers
+### Pattern 3: Linked List
 
 Learning to:
 
-- Modify arrays in-place
-- Use read and write pointers
-- Partition arrays efficiently
-- Merge sorted arrays
-- Handle duplicate elements
-- Apply opposite-end pointers
-- Solve problems using sorted-array properties
-- Understand when to move the left or right pointer
-- Find pairs and combinations efficiently
-- Count valid subsequences using Two Pointers
-- Combine Greedy with Two Pointers
-- Handle duplicate combinations and multiplicity
-- Check whether one string is a subsequence of another
-- Apply subsequence logic to dictionary-based problems
-- Find intersections between two sorted interval lists
-- Apply Two Pointers across multiple arrays
-- Process strings from right to left
-- Handle backspaces using constant extra space
-- Optimize brute-force solutions
-- Master different Two Pointer variations used in interviews
+- Traverse linked lists efficiently
+- Use multiple pointers
+- Manipulate node connections
+- Rearrange linked lists in-place
+- Separate odd and even indexed nodes
+- Reorder linked lists efficiently
+- Find the middle node using Fast & Slow Pointers
+- Delete nodes without using extra space
+- Find nodes from both ends using Two Pointers
+- Swap node values efficiently
+- Solve linked list problems in O(n) time
+- Maintain O(1) extra space
+- Recognize common Linked List interview patterns
+- Optimize brute-force linked list solutions
+- Master pointer manipulation techniques
 
 ---
 
 ## 🌟 Milestones
 
 - 🚀 Challenge Started: **August 1, 2026**
-- ✅ Days Completed: **12**
-- ✅ Problems Solved: **24**
-- 🔄 Patterns Currently In Progress: **2**
+- ✅ Days Completed: **14**
+- ✅ Problems Solved: **28**
+- 🔄 Patterns Currently In Progress: **3**
 - 🎯 Goal: **730 Problems in 365 Days**
 
 ---
